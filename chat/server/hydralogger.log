@@ -1,0 +1,7 @@
+Hydra room.go:32: Starting chat room AppChat
+Hydra chat.go:52: Received request from client 127.0.0.1:35382
+Hydra chat.go:52: Received request from client 127.0.0.1:35388
+Hydra client.go:25: Djamila:Hello, Gabriel
+Hydra client.go:25: Gabriel:Hello, Mother
+Hydra room.go:77: Removing the client...
+Hydra chat.go:42: Error connection to chat client accept tcp [::]:8000: use of closed network connection
